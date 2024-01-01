@@ -11,7 +11,7 @@ Welcome to the Movie Recommender project! This collaborative filtering-based sys
 
 - User-Friendly Interface: A simple and intuitive interface allows users to easily input preferences and receive instant movie recommendations
 
-
+ checkout and test it : https://movierecommendercolaborativefiltering-equkzc9xksgnfhtfzykumd.streamlit.app/
 ## Screenshot
 
 ![Alt text](./ss1.png)
