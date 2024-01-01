@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np 
 import pandas as pd
 import requests as rq
-import pickle 
+import pickle5 as pickle 
 df = pd.read_csv('popular_movies.csv')
 def fetch_poster(movie_id):
     response = rq.get('https://api.themoviedb.org/3/movie/{}?api_key=122e3bb69d5482904eb5b0f00db44b77&language=en-US'.format(movie_id))
